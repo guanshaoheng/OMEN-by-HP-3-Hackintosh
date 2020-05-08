@@ -16,7 +16,7 @@
 ## Progress 进展
 - 引导方式
   - `CLOVER` 已支持，具体版本号见 `Release`
-  - `OpenCore` 已支持，运行版本 0.5.7
+  - `OpenCore` 已支持，运行版本 0.5.8
 - 系统支持
   - 理论支持 macOS High Sierra 10.13.6（17G65）- Catalina 10.15.4（19E266）之间的全部版本
   - 建议安装 macOS Mojave 10.14.6 或更高版本
@@ -40,7 +40,7 @@
 - 声卡
   - 使用AppleALC其layout-id为 3 (可能睡眠唤醒无外放问题）
 - 触摸板
-  - 使用ApplePS2时我的大小写不好用有相同情况请自行更换为voodooPS2 但是无多指
+  - 使用ApplePS2时我的大小写不好用有相同情况请自行更换为VoodooPS2 但是无多指
 - 读卡器
   - 正常驱动（Sinetek-rtsx.kext）
 ## Instruction 使用说明
