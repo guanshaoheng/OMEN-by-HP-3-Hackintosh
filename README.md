@@ -1,4 +1,5 @@
 # OMEN by HP Laptop 15-ce007tx
+- 个人博客 [常原丶Blog](https://www.runebalot.cn/)
 
 > 本人机型：OMEN by HP Laptop 15-ce007tx
 
@@ -18,6 +19,7 @@
   - 如果需要双系统无缝切换，建议将 `OpenCore` 设置为第一引导
   - 建议所有机友更新 `BIOS` 和 `ME` 固件
   - 使用之前自己修改上序列号什么的
+  - 10.15.4之后需要自行打开 WriteFlash 以修复启动磁盘提示bless工具无法设定当前定启动磁盘
 ## Progress 进展
 - 引导方式
   - `CLOVER` 已支持，具体版本号见 `Release`
@@ -66,7 +68,6 @@ xjn博客[使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)
 我也不知道我只是日常使用
 
 ### 致谢
-- 感谢[miit0o](https://github.com/miit0o)将本指南翻译成英文
 - 感谢 [xjn](https://blog.xjn819.com/?p=543)提供OC配置文件教程
 - 感谢 [黑果小兵](https://blog.daliansky.net/OpenCore-BootLoader.html)提供的OC精解
 - 感谢 [iStarForever](https://github.com/XStar-Dev)帮助完善热补丁以及OpenCore
