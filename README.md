@@ -1,8 +1,6 @@
-﻿# OMEN by HP Laptop 15-ce007tx
+# OMEN by HP Laptop 15-ce007tx
 
 > 本人机型：OMEN by HP Laptop 15-ce007tx
-
-## [英文版](README-ENG.md)
 
 ### 配置
 
@@ -39,7 +37,7 @@
   - 无线网卡为螃蟹网卡无解 （蓝牙以及无线更换了BCM94360CS2）
     注：转接卡之后要断掉一截pcb并且网卡无法使用螺丝固定
 - 声卡
-  - 使用AppleALC其layout-id为 14 (0.5.8的OC已修复唤醒无外放问题）
+  - 使用AppleALC其layout-id为 3 (可能睡眠唤醒无外放问题）
 - 触摸板
   - 使用VoodooPS2以及VoodooInput时我的不可用如果有相同情况请自行更换为applePS2
 - 读卡器
