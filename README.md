@@ -70,9 +70,12 @@ xjn博客[使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)
 我也不知道我只是日常使用
 
 ### 致谢
+- 感谢[miit0o](https://github.com/miit0o)将本指南翻译成英文
 - 感谢 [xjn](https://blog.xjn819.com/?p=543)提供OC配置文件教程
 - 感谢 [黑果小兵](https://blog.daliansky.net/OpenCore-BootLoader.html)提供的OC精解
 - 感谢 [iStarForever](https://github.com/XStar-Dev)帮助完善热补丁以及OpenCore
+- 感谢 [风一点也不澈](http://bbs.pcbeta.com/viewthread-1855070-1-1.html)的声卡问题帖子
+- 感谢忘记 哞大 bat gz小白各位的指导
 - 感谢各位群友帮助解决各种问题
 
 ### 常见问题
