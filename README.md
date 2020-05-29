@@ -14,16 +14,17 @@
 | 声卡              | ALC295                    |
 | 硬盘              | C2000Pro 1TB、HGST 1T      |
 
-## 成功截图（暗影精灵3 配置如上所示）
-  ![Image text](https://github.com/guanshaoheng/OMEN-by-HP-3-Hackintosh/blob/master/IMG_1019.jpeg)
-  ![Image text](https://github.com/guanshaoheng/OMEN-by-HP-3-Hackintosh/blob/master/Screen%20Shot%202020-05-29%20at%2012.17.48%20PM.png)
-
 ## Instruction 使用说明
   - 注：如果使用之后电池不变 请关机长按电源键出了一个滴声音，重置电池即可
   - 如果需要双系统无缝切换，建议将 `OpenCore` 设置为第一引导
   - 建议所有机友更新 `BIOS` 和 `ME` 固件
   - 使用之前自己修改上序列号什么的
   - 10.15.4之后需要自行打开 WriteFlash 以修复启动磁盘提示bless工具无法设定当前定启动磁盘
+
+## 成功截图（暗影精灵3 配置如上所示）
+  ![Image text](https://github.com/guanshaoheng/OMEN-by-HP-3-Hackintosh/blob/master/IMG_1019.jpeg)
+  ![Image text](https://github.com/guanshaoheng/OMEN-by-HP-3-Hackintosh/blob/master/Screen%20Shot%202020-05-29%20at%2012.17.48%20PM.png)
+
 ## Progress 进展
 - 引导方式
   - `CLOVER` 已支持，具体版本号见 `Release`
