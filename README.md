@@ -14,10 +14,9 @@
 | 声卡              | ALC295                    |
 | 硬盘              | C2000Pro 1TB、HGST 1T      |
 
-### 成功截图（暗影精灵3 配置如上所示）
-  -
-![Image text](https://github.com/guanshaoheng/OMEN-by-HP-3-Hackintosh/blob/master/IMG_1019.jpeg)
-![Image text](https://github.com/guanshaoheng/OMEN-by-HP-3-Hackintosh/blob/master/Screen%20Shot%202020-05-29%20at%2012.17.48%20PM.png)
+## 成功截图（暗影精灵3 配置如上所示）
+  ![Image text](https://github.com/guanshaoheng/OMEN-by-HP-3-Hackintosh/blob/master/IMG_1019.jpeg)
+  ![Image text](https://github.com/guanshaoheng/OMEN-by-HP-3-Hackintosh/blob/master/Screen%20Shot%202020-05-29%20at%2012.17.48%20PM.png)
 
 ## Instruction 使用说明
   - 注：如果使用之后电池不变 请关机长按电源键出了一个滴声音，重置电池即可
