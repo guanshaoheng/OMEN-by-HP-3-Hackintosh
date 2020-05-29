@@ -14,6 +14,9 @@
 | 声卡              | ALC295                    |
 | 硬盘              | C2000Pro 1TB、HGST 1T      |
 
+![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+
+
 ## Instruction 使用说明
   - 注：如果使用之后电池不变 请关机长按电源键出了一个滴声音，重置电池即可
   - 如果需要双系统无缝切换，建议将 `OpenCore` 设置为第一引导
